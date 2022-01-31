@@ -1,0 +1,11 @@
+
+ul {
+    background-color: rgb(134, 133, 133);
+    padding:15px;
+}
+li {
+    color:white;
+    display:inline;
+    padding: 35px 30px;
+    line-height: 15px;
+}

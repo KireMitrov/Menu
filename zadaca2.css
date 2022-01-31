@@ -1,0 +1,27 @@
+li {
+    font-size: 15px;
+    font-weight: bold;
+    display: inline;
+    margin: 100px 45px;
+    background-color: #e7bc21;
+}
+
+.tacos {
+    padding: 5px 50px;
+}
+
+.beers {
+    padding: 5px 50px;
+}
+
+.wines {
+    padding: 5px 50px;
+}
+
+.deserts {
+    padding: 5px 35px;
+}
+
+.reservations {
+    padding: 5px 15px;
+}
